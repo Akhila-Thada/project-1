@@ -3,12 +3,12 @@
 A simple Front-end project
 
 
-##Principles
+## Principles
 
 Everything should be 100% responsive.
 Everything should be readable on any device.
 
-##Feature
+## Feature
 
 Works well with plain HTML, CSS and Javascript.
 
